@@ -20,8 +20,8 @@ This is a Django project that demonstrates user authentication using Google OAut
 ``python -m venv .venv``
 ``source .venv/Scripts/activate``
 #### In Windows cmd
-``python -m venv .venv
-.venv\Scripts\activate
+``python -m venv .venv``
+``.venv\Scripts\activate
 ``
 
 ### 3. Install dependencies
