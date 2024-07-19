@@ -16,8 +16,13 @@ This is a Django project that demonstrates user authentication using Google OAut
 `cd /google-login-djangotemplate`
 
 ### 2. Create a virtual environment and activate it
+#### In git bash
 ``python -m venv .venv``
-``source .venv/Source/activate``
+``source .venv/Scripts/activate``
+#### In Windows cmd
+``python -m venv .venv
+.venv\Scripts\activate
+``
 
 ### 3. Install dependencies
 `pip install -r requirements.txt`
