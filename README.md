@@ -12,20 +12,19 @@ This is a Django project that demonstrates user authentication using Google OAut
 ## Setup
 
 ### 1. Clone the repository
-`git clone https://github.com/Noyal080/google-login-djangotemplate.git  `                                                       
-`cd /google-login-djangotemplate`
-
+    git clone https://github.com/Noyal080/google-login-djangotemplate.git                                                  
+    cd /google-login-djangotemplate
+    
 ### 2. Create a virtual environment and activate it
 #### In git bash
-``python -m venv .venv``
-``source .venv/Scripts/activate``
+    python -m venv .venv
+    source .venv/Source/activate 
 #### In Windows cmd
-``python -m venv .venv``
-``.venv\Scripts\activate
-``
+    python -m venv .venv
+    .venv\Scripts\activate
 
 ### 3. Install dependencies
-`pip install -r requirements.txt`
+    pip install -r requirements.txt
 
 ### 4. Set up Google OAuth
 
