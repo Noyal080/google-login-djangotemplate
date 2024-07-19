@@ -17,7 +17,7 @@ This is a Django project that demonstrates user authentication using Google OAut
 
 ### 2. Create a virtual environment and activate it
 ``python -m venv .venv``
-`source .venv/Source/activate  `
+``source .venv/Source/activate``
 
 ### 3. Install dependencies
 `pip install -r requirements.txt`
